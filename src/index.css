@@ -1,0 +1,11 @@
+#map {
+    height: 500px;
+}
+
+.info-window {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 200px;
+}
